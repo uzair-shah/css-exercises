@@ -1,0 +1,15 @@
+.first-box, .second-box {
+    font-size: 28px;
+    font-family: 'Helvetica','Times New Roman','sans-serif';
+}
+
+.first-box {
+    background-color: black;
+    color: white;
+    outline: 1in;
+}
+
+.second-box {
+    background-color: yellow;
+    outline: 1in;
+}
